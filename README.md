@@ -1,1 +1,2 @@
-# -3
+# Pierwsze repozytorium
+Init sialala
